@@ -34,4 +34,3 @@ Select the desired episode's source code:
 
 ## Resources
 - [HTML Resource] (https://www.w3schools.com/html/default.asp)
-*soon*
