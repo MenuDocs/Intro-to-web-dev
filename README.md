@@ -24,12 +24,12 @@ Select the desired episode's source code:
 
 
 ## MenuDocs
-- [Discord.js Series](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj)
+- [Intro to Web Dev](https://www.youtube.com/playlist?list=PLWnw41ah3I4ZWMIAVEEMg97i6aOwwqFxF)
 - [Other Series](https://www.youtube.com/menudocs/playlists)
 - [Website](https://menudocs.org)
 - [Discord Server](https://discord.gg/MgVaazZ)
 - [GitHub](https://github.com/MenuDocs)
-- [Twiter](https://twitter.com/MenuDocs)
+- [Twitter](https://twitter.com/MenuDocs)
 - [Twitch](https://twitch.tv/MenuDocs)
 
 ## Resources
