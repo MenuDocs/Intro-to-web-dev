@@ -33,5 +33,5 @@ Select the desired episode's source code:
 - [Twitch](https://twitch.tv/MenuDocs)
 
 ## Resources
-HTML Resource - https://www.w3schools.com/html/default.asp
+- [HTML Resource] (https://www.w3schools.com/html/default.asp)
 *soon*
