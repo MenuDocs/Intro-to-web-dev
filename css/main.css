@@ -1,0 +1,21 @@
+body {
+  background-color: green;
+}
+
+h2 {
+  color: #ff69b4;
+  text-align: center;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+
+p {
+  color: darkred;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+ol {
+  color: gold;
+  font-family: fantasy;
+}
