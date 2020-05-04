@@ -3,6 +3,7 @@ body {
 }
 
 h2 {
+  margin-top: 10px;
   color: #ff69b4;
   text-align: center;
   font-size: 32px;
@@ -13,9 +14,15 @@ p {
   color: darkred;
   font-size: 24px;
   font-family: monospace;
+  text-align: right;
+  margin-right: 55px;
 }
 
 ol {
   color: gold;
   font-family: fantasy;
+}
+
+img {
+  align-items: left;
 }
