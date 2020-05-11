@@ -26,3 +26,41 @@ ol {
 img {
   align-items: left;
 }
+
+.myButton {
+  align-self: center;
+  background-color: #fe1a00;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  text-indent: 0px;
+  display: inline-block;
+  color: #ffff;
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.myButton:hover {
+  background-color: #ce0100;
+}
+
+.myButton:active {
+  position: relative;
+  top: 5px;
+}
+
+.neonLights {
+  font-size: 40px;
+  color: blue;
+  background: #ffff;
+  text-shadow: 2px 2px red;
+}
