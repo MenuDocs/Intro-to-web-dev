@@ -1,9 +1,11 @@
-/* Body CSS */
+/* Body Css */
 body {
     background-color: green;
+    transition: background-color 1s;
 }
+
 /* Heading CSS */
-h2 {
+hs {
     margin-top: 10px;
     color: hotpink;
     text-align: center;
@@ -21,6 +23,48 @@ p {
 ul {
     color: gold;
 }
+
+/* Img CSS */
 img {
     float: right;
+}
+/* Custom CSS Button */
+.myButton {
+    background-color: #fe1a00;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-indent: 0px;
+    display: inline-block;
+    color: #ffff;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+
+/* Custom CSS Button Hovering Color */
+.myButton:hover {
+    background-color: #ce0100;
+}
+/* Custom CSS Button On Active */
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+/* Custom Classes */
+
+.neonLights {
+    font-size: 40px;
+    color: #ffff;
+    background: #223323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    background: #223323;
 }
