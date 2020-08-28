@@ -9,6 +9,8 @@
 
 Repository for the [Intro to Web Dev](https://www.youtube.com/playlist?list=PLWnw41ah3I4ZWMIAVEEMg97i6aOwwqFxF) series on [MenuDocs](https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA).
 
+# NOW ENDED
+
 ## How to find our episodes code
 [click me](https://help.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
 
